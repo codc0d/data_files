@@ -1,0 +1,4 @@
+gF_V4_p15_u.nc.gz filter=lfs diff=lfs merge=lfs -text
+gF_V4_p16_v.nc.gz filter=lfs diff=lfs merge=lfs -text
+gF_V4_p17_salt.nc.gz filter=lfs diff=lfs merge=lfs -text
+gF_V4_p18_temp.nc.gz filter=lfs diff=lfs merge=lfs -text
