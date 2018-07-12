@@ -1,0 +1,4 @@
+u_1.nc.gz filter=lfs diff=lfs merge=lfs -text
+v_1.nc.gz filter=lfs diff=lfs merge=lfs -text
+salt_1.nc.gz filter=lfs diff=lfs merge=lfs -text
+temp_1.nc.gz filter=lfs diff=lfs merge=lfs -text
